@@ -5,6 +5,8 @@
 <html>
 <head>
 <title>Kết quả tính phí bảo hiểm y tế</title>
+    <link rel="icon" href="https://previews.123rf.com/images/arcady31/arcady311609/arcady31160900084/63065169-tick-shield-security-icon.jpg" type="image/x-icon"/>
+    <link rel="shortcut icon" href="https://previews.123rf.com/images/arcady31/arcady311609/arcady31160900084/63065169-tick-shield-security-icon.jpg" type="image/x-icon"/>
 </head>
 <jsp:include page="/WEB-INF/views/layout/header.jsp"></jsp:include>
 <body>
