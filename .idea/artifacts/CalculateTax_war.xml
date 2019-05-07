@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CalculateTax:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>CalculateTax</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Calculate-Tax-0.0.1.war">
+      <element id="artifact" artifact-name="CalculateTax:war exploded" />
+    </root>
+  </artifact>
+</component>
